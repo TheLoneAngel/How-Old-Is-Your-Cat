@@ -7,3 +7,7 @@ CSP~ Computer Science~
 Back in 9th Grade I worked on a Story Choice game called The Origins of Vimo. This was a game where you read and make different choices with mulitple endings.
 
 ![Screen Shot 2022-04-07 at 3 19 14 PM](https://user-images.githubusercontent.com/98775684/162289089-9c8984cd-5b23-404b-a635-2cf21be357d6.png)
+
+In my second Term I worked with a team with Elliot Jackson, Adhava, Pranay and Me. They wanted to make a Tower Defense kind of game. I was in charge of making the assets. I made the Towers and enemies. I also made a cannon that shot enemies from afar. This was sorta an animation I did. The original idea was to make the game similar to Bloons TD another defense kind of game. I was mainly working on creating the artwork of the characters in the game, so I didn't really code in this term
+![Holy Tower Level 2 (Red)](https://user-images.githubusercontent.com/98775684/172466082-1c6127db-e81b-45db-b22a-2cbbe8b0881a.png)
+![Two Enemy Factions_ Slide-1 png](https://user-images.githubusercontent.com/98775684/172466249-caeb5556-9e60-4f85-8a02-35f5f19f0687.png)
